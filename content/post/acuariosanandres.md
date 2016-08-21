@@ -8,7 +8,7 @@ menu = ""
 share = true
 slug = "san-andres-acuario"
 tags = ["san", "andres", "acuario", "peces", "mar", "oceano", "fish", "ocean", "aquarium", "raya", "manataraya"]
-title = "acuariosanandres"
+title = "Cayo Acuario, San Andres, Colombia"
 
 +++
 
