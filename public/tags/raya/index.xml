@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raya on Colombia tierra querida</title>
-    <link>http://cronop.io/tags/raya/</link>
+    <link>http://cronop.io/tags/raya/index.xml</link>
     <description>Recent content in Raya on Colombia tierra querida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-CO</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Sun, 21 Aug 2016 12:05:02 -0500</lastBuildDate>
     <atom:link href="http://cronop.io/tags/raya/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

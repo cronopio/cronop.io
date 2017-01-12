@@ -2,7 +2,7 @@
 author = "cronopio"
 comments = true
 date = "2016-08-17T19:01:24-05:00"
-draft = false
+draft = true
 image = ""
 menu = ""
 share = true

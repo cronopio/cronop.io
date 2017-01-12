@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cronop.io/</loc>
-    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <loc>http://cronop.io/post/metas-lo-mas-importante/</loc>
+    <lastmod>2017-01-12T17:08:45-05:00</lastmod>
   </url>
   
   <url>
@@ -17,11 +17,6 @@
   </url>
   
   <url>
-    <loc>http://cronop.io/post/lago-calima/</loc>
-    <lastmod>2016-08-17T19:01:24-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://cronop.io/post/manu-chao-barranquilla/</loc>
     <lastmod>2016-08-17T17:43:52-05:00</lastmod>
   </url>
@@ -29,6 +24,167 @@
   <url>
     <loc>http://cronop.io/post/inicio/</loc>
     <lastmod>2016-08-17T17:20:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/2015/</loc>
+    <lastmod>2016-08-17T17:43:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/acuario/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/andres/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/aquarium/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/barranquilla/</loc>
+    <lastmod>2016-08-17T17:43:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/chao/</loc>
+    <lastmod>2016-08-17T17:43:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/</loc>
+    <lastmod>2017-01-12T17:08:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/concierto/</loc>
+    <lastmod>2016-08-17T17:43:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/finanzas/</loc>
+    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/finanzas-personales/</loc>
+    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/fish/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/ingresos/</loc>
+    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/manataraya/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/manu/</loc>
+    <lastmod>2016-08-17T17:43:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/mar/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/mejorar/</loc>
+    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/metas/</loc>
+    <lastmod>2017-01-12T17:08:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/ocean/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/oceano/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/peces/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/personal/</loc>
+    <lastmod>2017-01-12T17:08:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/post/</loc>
+    <lastmod>2017-01-12T17:08:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/raya/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/san/</loc>
+    <lastmod>2016-08-21T12:05:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/tips/</loc>
+    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/vida/</loc>
+    <lastmod>2017-01-12T17:08:45-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
