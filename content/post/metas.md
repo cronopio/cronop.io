@@ -12,9 +12,9 @@ date = "2017-01-12T17:08:45-05:00"
 
 +++
 
-Inicia un nuevo año con muchos nuevos propositos es tipico en la mayoria de personas este mes, pero pocos al final del año pueden decir que cumplieron ese propocito del inicio del año. Una ayuda que he tenido en mi vida para hacer esto realidad es el proponerme METAS, metas personales, sociales y economicas.
+Inicia un nuevo año con muchos nuevos propósitos es típico en la mayoría de personas este mes, pero pocos al final del año pueden decir que cumplieron ese propósito del inicio del año. Una ayuda que he tenido en mi vida para hacer esto realidad es el proponerme METAS, metas personales, sociales y económicas.
 
-Ponte una meta para este año, diseña un plan paso a paso para lograr la meta, apegate al plan y al final conquistaras tu meta.
+Ponte una meta para este año, diseña un plan paso a paso para lograr la meta, apégate al plan y al final conquistaras tu meta.
 
 Les comparto una historia de vida extraida del libro que me estoy terminando de leer y su capitulo final sobre Metas.
 
