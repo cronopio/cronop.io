@@ -6,7 +6,7 @@ comments = true
 image = ""
 tags = ["libertad","financiera", "finanzas", "finanzas personales", "tips", "flujo efectivo", ""]
 title = "Como saber el Flujo de Efectivo mensual y que hacer con el"
-date = "2017-05-25T10:54:24+02:00"
+date = "2017-05-24T10:54:24+02:00"
 slug = "flujo-efectivo"
 author = "cronopio"
 

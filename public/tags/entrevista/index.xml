@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrevista on Colombia tierra querida</title>
+    <link>http://cronop.io/tags/entrevista/index.xml</link>
+    <description>Recent content in Entrevista on Colombia tierra querida</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CO</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <atom:link href="http://cronop.io/tags/entrevista/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Charla Malware con 3Bumen</title>
+      <link>http://cronop.io/post/3bumen-entrevista-wannacry/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/post/3bumen-entrevista-wannacry/</guid>
+      <description>&lt;p&gt;En dias pasados fui invitado por el lider de desarrollo tecnológico de &lt;a href=&#34;http://www.3bumen.com/es/inicio.html&#34;&gt;3Bumen Telecom Technologies&lt;/a&gt;, la empresa detras del famoso router &lt;a href=&#34;http://www.rompemuros.com/&#34;&gt;Rompemuros&lt;/a&gt; para charlar un poco sobre el malware o rasomware que esta siendo difundido masivamente por internet, es es el video resultante de esta charla, espero lo disfrutes y nos envies tus comentarios.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=i-tKvbR6Bag&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/i-tKvbR6Bag/0.jpg&#34; alt=&#34;Wannacry, Hackeos y el Papel del Rompemuros en la Seguridad
+&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
