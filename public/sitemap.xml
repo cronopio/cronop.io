@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cronop.io/post/flujo-efectivo/</loc>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://cronop.io/post/metas-lo-mas-importante/</loc>
     <lastmod>2017-01-12T17:08:45-05:00</lastmod>
   </url>
@@ -27,13 +32,8 @@
   </url>
   
   <url>
-    <loc>http://cronop.io/post/flujo-efectivo/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://cronop.io/tags/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,7 +75,7 @@
   
   <url>
     <loc>http://cronop.io/</loc>
-    <lastmod>2017-01-12T17:08:45-05:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,19 +87,19 @@
   
   <url>
     <loc>http://cronop.io/tags/financiera/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cronop.io/tags/finanzas/</loc>
-    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cronop.io/tags/finanzas-personales/</loc>
-    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,7 +111,7 @@
   
   <url>
     <loc>http://cronop.io/tags/flujo-efectivo/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,7 +123,7 @@
   
   <url>
     <loc>http://cronop.io/tags/libertad/</loc>
-    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,7 +183,7 @@
   
   <url>
     <loc>http://cronop.io/post/</loc>
-    <lastmod>2017-01-12T17:08:45-05:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -206,7 +206,7 @@
   
   <url>
     <loc>http://cronop.io/tags/tips/</loc>
-    <lastmod>2016-08-23T14:11:24-05:00</lastmod>
+    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
