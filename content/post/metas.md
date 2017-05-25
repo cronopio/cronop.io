@@ -2,7 +2,7 @@
 comments = true
 tags = ["personal","vida", "metas"]
 draft = false
-title = "Metas, lo mas importante en la vida"
+title = "Metas, lo más importante en la vida"
 menu = ""
 share = true
 slug = "metas-lo-mas-importante"
