@@ -6,7 +6,7 @@ author = "cronopio"
 share = true
 title = "Charla sobre WannaCry con 3Bumen"
 draft = false
-image = ""
+image = "http://img.youtube.com/vi/i-tKvbR6Bag/0.jpg"
 tags = ["malware","wannacry", "wannacrypt", "3bumen", "rompemuros", "redes", "entrevista", "charla"]
 slug = "3bumen-entrevista-wannacry"
 

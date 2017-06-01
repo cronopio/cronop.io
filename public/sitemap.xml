@@ -67,6 +67,10 @@
   </url>
   
   <url>
+    <loc>http://cronop.io/post/antes-invertir-bitcoins/</loc>
+  </url>
+  
+  <url>
     <loc>http://cronop.io/tags/aquarium/</loc>
     <lastmod>2016-08-21T12:05:02-05:00</lastmod>
     <priority>0</priority>
@@ -75,6 +79,16 @@
   <url>
     <loc>http://cronop.io/tags/barranquilla/</loc>
     <lastmod>2016-08-17T17:43:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/bitcoin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/bitcoins/</loc>
     <priority>0</priority>
   </url>
   
@@ -99,6 +113,16 @@
   <url>
     <loc>http://cronop.io/tags/concierto/</loc>
     <lastmod>2016-08-17T17:43:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/crypto/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/currency/</loc>
     <priority>0</priority>
   </url>
   
@@ -145,6 +169,16 @@
   </url>
   
   <url>
+    <loc>http://cronop.io/tags/inversion/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/invertir/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cronop.io/tags/libertad/</loc>
     <lastmod>2017-05-24T10:54:24+02:00</lastmod>
     <priority>0</priority>
@@ -183,6 +217,16 @@
   <url>
     <loc>http://cronop.io/tags/metas/</loc>
     <lastmod>2017-01-12T17:08:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/moneda/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/tags/monedas-virtuales/</loc>
     <priority>0</priority>
   </url>
   
