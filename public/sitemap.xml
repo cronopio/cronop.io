@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cronop.io/post/antes-invertir-bitcoins/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://cronop.io/post/3bumen-entrevista-wannacry/</loc>
     <lastmod>2017-05-25T10:54:24+02:00</lastmod>
   </url>
@@ -67,10 +72,6 @@
   </url>
   
   <url>
-    <loc>http://cronop.io/post/antes-invertir-bitcoins/</loc>
-  </url>
-  
-  <url>
     <loc>http://cronop.io/tags/aquarium/</loc>
     <lastmod>2016-08-21T12:05:02-05:00</lastmod>
     <priority>0</priority>
@@ -84,11 +85,13 @@
   
   <url>
     <loc>http://cronop.io/tags/bitcoin/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cronop.io/tags/bitcoins/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,7 +109,7 @@
   
   <url>
     <loc>http://cronop.io/</loc>
-    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -118,11 +121,13 @@
   
   <url>
     <loc>http://cronop.io/tags/crypto/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cronop.io/tags/currency/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -170,11 +175,13 @@
   
   <url>
     <loc>http://cronop.io/tags/inversion/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cronop.io/tags/invertir/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -222,11 +229,13 @@
   
   <url>
     <loc>http://cronop.io/tags/moneda/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cronop.io/tags/monedas-virtuales/</loc>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -256,7 +265,7 @@
   
   <url>
     <loc>http://cronop.io/post/</loc>
-    <lastmod>2017-05-25T10:54:24+02:00</lastmod>
+    <lastmod>2017-06-01T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   

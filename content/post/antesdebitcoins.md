@@ -1,7 +1,7 @@
 +++
 slug = "antes-invertir-bitcoins"
 title = "Antes de invertir en Bitcoins mira esto"
-date = "2017-06-1T10:54:24+02:00"
+date = "2017-06-01T10:54:24+02:00"
 author = "cronopio"
 share = true
 comments = true
