@@ -1,9 +1,9 @@
 BaseUrl= "http://cronop.io/"
 LanguageCode= "es-CO"
-Title= "Colombia tierra querida"
+Title= "Colombia, mi tierra querida"
 paginate = 5
 DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+Copyright = "All rights reserved - 2018"
 canonifyurls = true
 theme="hugo-theme-air"
 

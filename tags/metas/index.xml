@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metas on Colombia tierra querida</title>
-    <link>http://cronop.io/tags/metas/index.xml</link>
+    <link>http://cronop.io/tags/metas/</link>
     <description>Recent content in Metas on Colombia tierra querida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-CO</language>
     <copyright>All rights reserved - 2016</copyright>
-    <atom:link href="http://cronop.io/tags/metas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2017 17:08:45 -0500</lastBuildDate>
+    
+	<atom:link href="http://cronop.io/tags/metas/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Metas, lo más importante en la vida</title>
@@ -15,17 +18,8 @@
       <pubDate>Thu, 12 Jan 2017 17:08:45 -0500</pubDate>
       
       <guid>http://cronop.io/post/metas-lo-mas-importante/</guid>
-      <description>&lt;p&gt;Inicia un nuevo año con muchos nuevos propósitos es típico en la mayoría de personas este mes, pero pocos al final del año pueden decir que cumplieron ese propósito del inicio del año. Una ayuda que he tenido en mi vida para hacer esto realidad es el proponerme METAS, metas personales, sociales y económicas.&lt;/p&gt;
-
-&lt;p&gt;Ponte una meta para este año, diseña un plan paso a paso para lograr la meta, apégate al plan y al final conquistaras tu meta.&lt;/p&gt;
-
-&lt;p&gt;Les comparto una historia de vida extraida del libro que me estoy terminando de leer y su capitulo final sobre Metas.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;quot;Metas, metas intensas, pueden mantener a una persona viva cuando no quiere nada más. La señora D., madre de un condiscipulo mío, contrantrajo cancer cuando su hijo sólo tenía dos años. Para oscurecer más el hecho, su marido había fallecido solamente tres meses antes que su enfermedad fuese diagnosticada. Los médicos ofrecieron poca esperanza. Pero la señora D. no quiso rendirse. Había determinado que quería ver a su hijo de dos años salir del colegio para ocuparse de una pequeña tienda al por menor que su marido le heredó. Hubo numerosas operaciones quirúrgicas. Cada vez los doctores decían: &amp;quot;Solamente unos meses más&amp;quot;. El cancer nunca se curó. Pero estos pocos &amp;quot;meses más&amp;quot; se estiraron hasta 20 años. Ella vio a su hijo graduado en la escuela. Seis semanas después falleció. Una meta, un deseo ardiente, fue lo bastante poderoso para diferir por dos décadas una muerte segura.&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Extraido del libro &amp;ldquo;La magia de pensar en grande&amp;rdquo; de David J. Schwartz&lt;/p&gt;
-</description>
+      <description>Inicia un nuevo año con muchos nuevos propósitos es típico en la mayoría de personas este mes, pero pocos al final del año pueden decir que cumplieron ese propósito del inicio del año. Una ayuda que he tenido en mi vida para hacer esto realidad es el proponerme METAS, metas personales, sociales y económicas.
+Ponte una meta para este año, diseña un plan paso a paso para lograr la meta, apégate al plan y al final conquistaras tu meta.</description>
     </item>
     
   </channel>

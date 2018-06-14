@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colombia tierra querida</title>
-    <link>http://cronop.io/index.xml</link>
+    <link>http://cronop.io/</link>
     <description>Recent content on Colombia tierra querida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-CO</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Thu, 01 Jun 2017 10:54:24 +0200</lastBuildDate>
-    <atom:link href="http://cronop.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://cronop.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Antes de invertir en Bitcoins mira esto</title>
@@ -16,12 +18,8 @@
       <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
       
       <guid>http://cronop.io/post/antes-invertir-bitcoins/</guid>
-      <description>&lt;p&gt;Conozco &lt;a href=&#34;http://bitcoin.org&#34;&gt;Bitcoins&lt;/a&gt; desde hace ya varios años y nunca tuvo tanta publicidad y difusión como en estos momentos, veo personas sin ningun tipo de conocimiento técnico y/o financiero poniendose a invertir en bitcoins sin ningun tipo de estrategia, para mi es alarmante que esto este sucediendo y me parece que hay un grupo de personas recolectando dinero de otros para su propio beneficio.&lt;/p&gt;
-
-&lt;p&gt;Espero poder contribuir a que esto no suceda y que personas no pierdan su dinero por no saber bien de que se tratan estos temas. Les comparto un video que hice aclarando unas dudas inciales sobre Bitcoins, espero lo disfruten.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=l7MvjteVvJc&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/l7MvjteVvJc/0.jpg&#34; alt=&#34;Lo que tienes que saber ANTES de invertir en Bitcoins&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Conozco Bitcoins desde hace ya varios años y nunca tuvo tanta publicidad y difusión como en estos momentos, veo personas sin ningun tipo de conocimiento técnico y/o financiero poniendose a invertir en bitcoins sin ningun tipo de estrategia, para mi es alarmante que esto este sucediendo y me parece que hay un grupo de personas recolectando dinero de otros para su propio beneficio.
+Espero poder contribuir a que esto no suceda y que personas no pierdan su dinero por no saber bien de que se tratan estos temas.</description>
     </item>
     
     <item>
@@ -30,11 +28,7 @@
       <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
       
       <guid>http://cronop.io/post/3bumen-entrevista-wannacry/</guid>
-      <description>&lt;p&gt;En dias pasados fui invitado por el lider de desarrollo tecnológico de &lt;a href=&#34;http://www.3bumen.com/es/inicio.html&#34;&gt;3Bumen Telecom Technologies&lt;/a&gt;, la empresa detras del famoso router &lt;a href=&#34;http://www.rompemuros.com/&#34;&gt;Rompemuros&lt;/a&gt; para charlar un poco sobre el malware o rasomware que esta siendo difundido masivamente por internet conocido como &amp;ldquo;wannacry&amp;rdquo;, este es el video resultante de esta charla, espero lo disfrute y nos envie sus comentarios.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=i-tKvbR6Bag&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/i-tKvbR6Bag/0.jpg&#34; alt=&#34;Wannacry, Hackeos y el Papel del Rompemuros en la Seguridad
-&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>En dias pasados fui invitado por el lider de desarrollo tecnológico de 3Bumen Telecom Technologies, la empresa detras del famoso router Rompemuros para charlar un poco sobre el malware o rasomware que esta siendo difundido masivamente por internet conocido como &amp;ldquo;wannacry&amp;rdquo;, este es el video resultante de esta charla, espero lo disfrute y nos envie sus comentarios.</description>
     </item>
     
     <item>
@@ -43,11 +37,7 @@
       <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
       
       <guid>http://cronop.io/post/flujo-efectivo/</guid>
-      <description>&lt;p&gt;En este video trato de explicar un poco de que se trata el Flujo de Efectivo Mensual, que es, como calcularlo y como puedo usarlo a mi favor para mejorar mi situación económica.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8aa-ntKwNjI&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/8aa-ntKwNjI/0.jpg&#34; alt=&#34;Como saber el Flujo de Efectivo mensual y que hacer con el.
-&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>En este video trato de explicar un poco de que se trata el Flujo de Efectivo Mensual, que es, como calcularlo y como puedo usarlo a mi favor para mejorar mi situación económica.</description>
     </item>
     
     <item>
@@ -56,17 +46,8 @@
       <pubDate>Thu, 12 Jan 2017 17:08:45 -0500</pubDate>
       
       <guid>http://cronop.io/post/metas-lo-mas-importante/</guid>
-      <description>&lt;p&gt;Inicia un nuevo año con muchos nuevos propósitos es típico en la mayoría de personas este mes, pero pocos al final del año pueden decir que cumplieron ese propósito del inicio del año. Una ayuda que he tenido en mi vida para hacer esto realidad es el proponerme METAS, metas personales, sociales y económicas.&lt;/p&gt;
-
-&lt;p&gt;Ponte una meta para este año, diseña un plan paso a paso para lograr la meta, apégate al plan y al final conquistaras tu meta.&lt;/p&gt;
-
-&lt;p&gt;Les comparto una historia de vida extraida del libro que me estoy terminando de leer y su capitulo final sobre Metas.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;quot;Metas, metas intensas, pueden mantener a una persona viva cuando no quiere nada más. La señora D., madre de un condiscipulo mío, contrantrajo cancer cuando su hijo sólo tenía dos años. Para oscurecer más el hecho, su marido había fallecido solamente tres meses antes que su enfermedad fuese diagnosticada. Los médicos ofrecieron poca esperanza. Pero la señora D. no quiso rendirse. Había determinado que quería ver a su hijo de dos años salir del colegio para ocuparse de una pequeña tienda al por menor que su marido le heredó. Hubo numerosas operaciones quirúrgicas. Cada vez los doctores decían: &amp;quot;Solamente unos meses más&amp;quot;. El cancer nunca se curó. Pero estos pocos &amp;quot;meses más&amp;quot; se estiraron hasta 20 años. Ella vio a su hijo graduado en la escuela. Seis semanas después falleció. Una meta, un deseo ardiente, fue lo bastante poderoso para diferir por dos décadas una muerte segura.&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Extraido del libro &amp;ldquo;La magia de pensar en grande&amp;rdquo; de David J. Schwartz&lt;/p&gt;
-</description>
+      <description>Inicia un nuevo año con muchos nuevos propósitos es típico en la mayoría de personas este mes, pero pocos al final del año pueden decir que cumplieron ese propósito del inicio del año. Una ayuda que he tenido en mi vida para hacer esto realidad es el proponerme METAS, metas personales, sociales y económicas.
+Ponte una meta para este año, diseña un plan paso a paso para lograr la meta, apégate al plan y al final conquistaras tu meta.</description>
     </item>
     
     <item>
@@ -75,12 +56,8 @@
       <pubDate>Tue, 23 Aug 2016 14:11:24 -0500</pubDate>
       
       <guid>http://cronop.io/post/regla-70-30-finanzas-personales/</guid>
-      <description>&lt;p&gt;En está ocasión deseo compartir con ustedes un tip de finanzas personales que me ha servido mucho en mi vida y en mis propias finanzas.&lt;/p&gt;
-
-&lt;p&gt;Espero sea util para ustedes y espero sus comentarios.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=4L7oQF8tiXk&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/4L7oQF8tiXk/0.jpg&#34; alt=&#34;Regla 70/30&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>En está ocasión deseo compartir con ustedes un tip de finanzas personales que me ha servido mucho en mi vida y en mis propias finanzas.
+Espero sea util para ustedes y espero sus comentarios.</description>
     </item>
     
     <item>
@@ -89,10 +66,7 @@
       <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
       
       <guid>http://cronop.io/post/san-andres-acuario/</guid>
-      <description>&lt;p&gt;Si vas a San Andres Isla, Colombia puedes hacer el tour al cayo el acuario y ver algunos peces.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=cA617vyr5FQ&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/cA617vyr5FQ/0.jpg&#34; alt=&#34;Cayo Acuario en San Andres, Colombia&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Si vas a San Andres Isla, Colombia puedes hacer el tour al cayo el acuario y ver algunos peces.</description>
     </item>
     
     <item>
@@ -101,10 +75,7 @@
       <pubDate>Wed, 17 Aug 2016 17:43:52 -0500</pubDate>
       
       <guid>http://cronop.io/post/manu-chao-barranquilla/</guid>
-      <description>&lt;p&gt;Algunas tomas rapidas del concierto gratuito de Manu Chao en Barranquilla.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=Nocpz0vqEDQ&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/Nocpz0vqEDQ/0.jpg&#34; alt=&#34;Manu Chao en Barranquilla 2015&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Algunas tomas rapidas del concierto gratuito de Manu Chao en Barranquilla.</description>
     </item>
     
     <item>
@@ -113,12 +84,8 @@
       <pubDate>Wed, 17 Aug 2016 17:20:03 -0500</pubDate>
       
       <guid>http://cronop.io/post/inicio/</guid>
-      <description>&lt;p&gt;Colombia, land of beautiful places.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Colombia, tierra de lugares hermosos.&lt;/p&gt;
-</description>
+      <description>Colombia, land of beautiful places.
+Colombia, tierra de lugares hermosos.</description>
     </item>
     
   </channel>
