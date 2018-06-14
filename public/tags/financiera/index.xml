@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financiera on Colombia tierra querida</title>
-    <link>http://cronop.io/tags/financiera/index.xml</link>
+    <link>http://cronop.io/tags/financiera/</link>
     <description>Recent content in Financiera on Colombia tierra querida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-CO</language>
     <copyright>All rights reserved - 2016</copyright>
-    <atom:link href="http://cronop.io/tags/financiera/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 May 2017 10:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="http://cronop.io/tags/financiera/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Como saber el Flujo de Efectivo mensual y que hacer con el</title>
@@ -15,11 +18,7 @@
       <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
       
       <guid>http://cronop.io/post/flujo-efectivo/</guid>
-      <description>&lt;p&gt;En este video trato de explicar un poco de que se trata el Flujo de Efectivo Mensual, que es, como calcularlo y como puedo usarlo a mi favor para mejorar mi situación económica.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8aa-ntKwNjI&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/8aa-ntKwNjI/0.jpg&#34; alt=&#34;Como saber el Flujo de Efectivo mensual y que hacer con el.
-&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>En este video trato de explicar un poco de que se trata el Flujo de Efectivo Mensual, que es, como calcularlo y como puedo usarlo a mi favor para mejorar mi situación económica.</description>
     </item>
     
   </channel>

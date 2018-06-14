@@ -1,25 +1,411 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Colombia tierra querida</title>
-    <link>http://cronop.io/tags/index.xml</link>
-    <description>Recent content on Colombia tierra querida</description>
+    <title>Tags on Colombia tierra querida</title>
+    <link>http://cronop.io/tags/</link>
+    <description>Recent content in Tags on Colombia tierra querida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-CO</language>
     <copyright>All rights reserved - 2016</copyright>
-    <atom:link href="http://cronop.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 May 2017 10:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="http://cronop.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Como saber el Flujo de Efectivo mensual y que hacer con el</title>
-      <link>http://cronop.io/post/flujo-efectivo/</link>
+      <title></title>
+      <link>http://cronop.io/tags/</link>
       <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
       
-      <guid>http://cronop.io/post/flujo-efectivo/</guid>
-      <description>&lt;p&gt;En este video trato de explicar un poco de que se trata el Flujo de Efectivo Mensual, que es, como calcularlo y como puedo usarlo a mi favor para mejorar mi situación económica.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8aa-ntKwNjI&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/8aa-ntKwNjI/0.jpg&#34; alt=&#34;Como saber el Flujo de Efectivo mensual y que hacer con el.
-&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://cronop.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2015</title>
+      <link>http://cronop.io/tags/2015/</link>
+      <pubDate>Wed, 17 Aug 2016 17:43:52 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3bumen</title>
+      <link>http://cronop.io/tags/3bumen/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/3bumen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acuario</title>
+      <link>http://cronop.io/tags/acuario/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/acuario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andres</title>
+      <link>http://cronop.io/tags/andres/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/andres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aquarium</title>
+      <link>http://cronop.io/tags/aquarium/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/aquarium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barranquilla</title>
+      <link>http://cronop.io/tags/barranquilla/</link>
+      <pubDate>Wed, 17 Aug 2016 17:43:52 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/barranquilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>http://cronop.io/tags/bitcoin/</link>
+      <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoins</title>
+      <link>http://cronop.io/tags/bitcoins/</link>
+      <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/bitcoins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chao</title>
+      <link>http://cronop.io/tags/chao/</link>
+      <pubDate>Wed, 17 Aug 2016 17:43:52 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/chao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charla</title>
+      <link>http://cronop.io/tags/charla/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/charla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concierto</title>
+      <link>http://cronop.io/tags/concierto/</link>
+      <pubDate>Wed, 17 Aug 2016 17:43:52 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/concierto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crypto</title>
+      <link>http://cronop.io/tags/crypto/</link>
+      <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Currency</title>
+      <link>http://cronop.io/tags/currency/</link>
+      <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/currency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entrevista</title>
+      <link>http://cronop.io/tags/entrevista/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/entrevista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financiera</title>
+      <link>http://cronop.io/tags/financiera/</link>
+      <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/financiera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finanzas</title>
+      <link>http://cronop.io/tags/finanzas/</link>
+      <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/finanzas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finanzas Personales</title>
+      <link>http://cronop.io/tags/finanzas-personales/</link>
+      <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/finanzas-personales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fish</title>
+      <link>http://cronop.io/tags/fish/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flujo Efectivo</title>
+      <link>http://cronop.io/tags/flujo-efectivo/</link>
+      <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/flujo-efectivo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ingresos</title>
+      <link>http://cronop.io/tags/ingresos/</link>
+      <pubDate>Tue, 23 Aug 2016 14:11:24 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/ingresos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inversion</title>
+      <link>http://cronop.io/tags/inversion/</link>
+      <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invertir</title>
+      <link>http://cronop.io/tags/invertir/</link>
+      <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/invertir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libertad</title>
+      <link>http://cronop.io/tags/libertad/</link>
+      <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/libertad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware</title>
+      <link>http://cronop.io/tags/malware/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manataraya</title>
+      <link>http://cronop.io/tags/manataraya/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/manataraya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manu</title>
+      <link>http://cronop.io/tags/manu/</link>
+      <pubDate>Wed, 17 Aug 2016 17:43:52 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/manu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mar</title>
+      <link>http://cronop.io/tags/mar/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/mar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mejorar</title>
+      <link>http://cronop.io/tags/mejorar/</link>
+      <pubDate>Tue, 23 Aug 2016 14:11:24 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/mejorar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metas</title>
+      <link>http://cronop.io/tags/metas/</link>
+      <pubDate>Thu, 12 Jan 2017 17:08:45 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/metas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moneda</title>
+      <link>http://cronop.io/tags/moneda/</link>
+      <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/moneda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monedas Virtuales</title>
+      <link>http://cronop.io/tags/monedas-virtuales/</link>
+      <pubDate>Thu, 01 Jun 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/monedas-virtuales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean</title>
+      <link>http://cronop.io/tags/ocean/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/ocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oceano</title>
+      <link>http://cronop.io/tags/oceano/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/oceano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peces</title>
+      <link>http://cronop.io/tags/peces/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/peces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://cronop.io/tags/personal/</link>
+      <pubDate>Thu, 12 Jan 2017 17:08:45 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raya</title>
+      <link>http://cronop.io/tags/raya/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/raya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redes</title>
+      <link>http://cronop.io/tags/redes/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/redes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rompemuros</title>
+      <link>http://cronop.io/tags/rompemuros/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/rompemuros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>San</title>
+      <link>http://cronop.io/tags/san/</link>
+      <pubDate>Sun, 21 Aug 2016 12:05:02 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/san/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>http://cronop.io/tags/tips/</link>
+      <pubDate>Wed, 24 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vida</title>
+      <link>http://cronop.io/tags/vida/</link>
+      <pubDate>Thu, 12 Jan 2017 17:08:45 -0500</pubDate>
+      
+      <guid>http://cronop.io/tags/vida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wannacry</title>
+      <link>http://cronop.io/tags/wannacry/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/wannacry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wannacrypt</title>
+      <link>http://cronop.io/tags/wannacrypt/</link>
+      <pubDate>Thu, 25 May 2017 10:54:24 +0200</pubDate>
+      
+      <guid>http://cronop.io/tags/wannacrypt/</guid>
+      <description></description>
     </item>
     
   </channel>

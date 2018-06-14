@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://cronop.io/post/antes-invertir-bitcoins/</loc>
@@ -92,6 +93,11 @@
   <url>
     <loc>http://cronop.io/tags/bitcoins/</loc>
     <lastmod>2017-06-01T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cronop.io/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -295,6 +301,7 @@
   
   <url>
     <loc>http://cronop.io/tags/</loc>
+    <lastmod>2017-05-24T10:54:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
